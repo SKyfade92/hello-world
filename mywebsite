@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="description" content="欢迎来到海斌在线"/>
+		<meta name="keywords" content="前端学习，编程，海斌在线"/>
+		<link rel="stylesheet" type="text/css" href="css/style.css"/>
+		<link rel="stylesheet" href="css/font-awesome.min.css">
+		<title>海斌在线|首页</title>
+	</head>
+  <body>
+  <h1>我的第一个网页</h1>
+  </body>
